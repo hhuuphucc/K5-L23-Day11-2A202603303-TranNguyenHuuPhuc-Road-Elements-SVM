@@ -1,6 +1,6 @@
 # Phiếu QC 1 — Road v1.0
 
-Lô được kiểm (học viên): `2A202603312` (chưa có tên học viên trong file/manifest)        Người kiểm (học viên): `trannguyenhuuphuc`  
+Lô được kiểm (học viên): `2A202603312 - Vũ Văn Long` (file/manifest)        Người kiểm (học viên): `trannguyenhuuphuc`  
 Ngày: 2026-11-20                          Phiên bản guideline: Road v1.0  
 File được kiểm (tên + `revision` trong manifest): `2A202603312.zip` (chỉ có 1 file front; thiếu `<tên>-fisheye.zip` và thiếu `<tên>-manifest.json`, chưa rõ `revision`)  
 Số ảnh kiểm: 6 (`A01–A06` đã gán nhãn) (+ 6 ảnh `A07–A12` trong file chưa gán nhãn, kiểm bổ sung ở `QC1-12`)   Số nhãn đã kiểm (shape + tag): `81` (`57` shape + `24` tag trên `A01–A06`)
